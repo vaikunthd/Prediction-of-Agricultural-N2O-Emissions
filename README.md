@@ -2,6 +2,10 @@
 
 This project focuses on predicting agricultural nitrous oxide (N2O) emissions using machine learning techniques.
 
+## 📝 Background
+
+Nitrous oxide (N₂O) is a potent greenhouse gas emitted from agricultural activities, significantly contributing to climate change. Accurate prediction of N₂O emissions can help inform sustainable agricultural practices and policy decisions. This project aims to leverage machine learning to model and predict N₂O emissions based on environmental and agricultural data.
+
 ## Project Overview
 
 The goal of this project is to:
@@ -52,7 +56,13 @@ To run this project, you'll need Python and the following libraries:
 
 ## Results
 
-The project compares the performance of different regression models in predicting N2O emissions. Detailed results and visualizations can be found in the Jupyter Notebook.
+The project compares the performance of different regression models in predicting N2O emissions. Detailed results and visualizations are available in the Jupyter Notebook.
+
+## ⚠️ Limitations
+
+- The analysis is based on the available dataset, which may not capture all possible environmental or agricultural variables.
+- Model predictions may not generalize to regions or conditions not represented in the training data.
+- External factors such as climate anomalies or changes in agricultural practices are not explicitly modeled.
 
 ## Contributing
 
